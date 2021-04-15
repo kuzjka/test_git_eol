@@ -1,0 +1,2 @@
+I also don't want EOLs to be converted for this file, 
+but I'll commit .gitattributes later
