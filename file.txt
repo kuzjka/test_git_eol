@@ -1,0 +1,2 @@
+I want EOL conversion
+for this file
